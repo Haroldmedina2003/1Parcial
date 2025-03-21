@@ -1,0 +1,98 @@
+2025-03-20 16:35:02.550+0000 WARN  Use of deprecated setting 'dbms.connector.http.listen_address'. It is replaced by 'server.http.listen_address'.
+2025-03-20 16:35:02.568+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.listen_address'. It is replaced by 'server.bolt.listen_address'.
+2025-03-20 16:35:02.569+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2025-03-20 16:35:02.569+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2025-03-20 16:35:02.570+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2025-03-20 16:35:02.599+0000 INFO  Starting...
+2025-03-20 16:35:04.444+0000 INFO  This instance is ServerId{9d6fa62d} (9d6fa62d-0a40-4440-ae78-010fca8b4e56)
+2025-03-20 16:35:05.900+0000 INFO  ======== Neo4j 5.10.0 ========
+2025-03-20 16:35:09.449+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-03-20 16:35:10.707+0000 INFO  Remote interface available at http://localhost:7474/
+2025-03-20 16:35:10.715+0000 INFO  id: 400A043B0818EDD64C993D1C25D2E4C274F88590142C3DA8898A4CC10B271009
+2025-03-20 16:35:10.716+0000 INFO  name: system
+2025-03-20 16:35:10.720+0000 INFO  creationDate: 2025-03-20T16:35:07.192Z
+2025-03-20 16:35:10.720+0000 INFO  Started.
+2025-03-21 14:00:01.562+0000 INFO  Neo4j Server shutdown initiated by request
+2025-03-21 14:00:01.800+0000 INFO  Stopping...
+2025-03-21 14:00:35.495+0000 WARN  Use of deprecated setting 'dbms.connector.http.listen_address'. It is replaced by 'server.http.listen_address'.
+2025-03-21 14:00:35.511+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.listen_address'. It is replaced by 'server.bolt.listen_address'.
+2025-03-21 14:00:35.512+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2025-03-21 14:00:35.512+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2025-03-21 14:00:35.513+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2025-03-21 14:00:35.554+0000 INFO  Starting...
+2025-03-21 14:00:39.396+0000 INFO  This instance is ServerId{9d6fa62d} (9d6fa62d-0a40-4440-ae78-010fca8b4e56)
+2025-03-21 14:00:43.697+0000 INFO  ======== Neo4j 5.10.0 ========
+2025-03-21 14:00:49.665+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-03-21 14:00:53.595+0000 INFO  Remote interface available at http://localhost:7474/
+2025-03-21 14:00:53.604+0000 INFO  id: 400A043B0818EDD64C993D1C25D2E4C274F88590142C3DA8898A4CC10B271009
+2025-03-21 14:00:53.604+0000 INFO  name: system
+2025-03-21 14:00:53.604+0000 INFO  creationDate: 2025-03-20T16:35:07.192Z
+2025-03-21 14:00:53.606+0000 INFO  Started.
+2025-03-21 14:10:49.208+0000 INFO  Neo4j Server shutdown initiated by request
+2025-03-21 14:10:49.247+0000 INFO  Stopping...
+2025-03-21 14:10:57.134+0000 INFO  Stopped.
+2025-03-21 14:12:36.125+0000 WARN  Use of deprecated setting 'dbms.connector.http.listen_address'. It is replaced by 'server.http.listen_address'.
+2025-03-21 14:12:36.142+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.listen_address'. It is replaced by 'server.bolt.listen_address'.
+2025-03-21 14:12:36.142+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2025-03-21 14:12:36.144+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2025-03-21 14:12:36.147+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2025-03-21 14:12:36.179+0000 INFO  Starting...
+2025-03-21 14:12:39.503+0000 INFO  This instance is ServerId{9d6fa62d} (9d6fa62d-0a40-4440-ae78-010fca8b4e56)
+2025-03-21 14:12:42.534+0000 INFO  ======== Neo4j 5.10.0 ========
+2025-03-21 14:12:47.289+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-03-21 14:12:49.725+0000 INFO  Remote interface available at http://localhost:7474/
+2025-03-21 14:12:49.737+0000 INFO  id: 400A043B0818EDD64C993D1C25D2E4C274F88590142C3DA8898A4CC10B271009
+2025-03-21 14:12:49.738+0000 INFO  name: system
+2025-03-21 14:12:49.740+0000 INFO  creationDate: 2025-03-20T16:35:07.192Z
+2025-03-21 14:12:49.741+0000 INFO  Started.
+2025-03-21 14:24:36.493+0000 INFO  Neo4j Server shutdown initiated by request
+2025-03-21 14:24:36.507+0000 INFO  Stopping...
+2025-03-21 14:24:42.770+0000 INFO  Stopped.
+2025-03-21 14:25:07.957+0000 WARN  Use of deprecated setting 'dbms.connector.http.listen_address'. It is replaced by 'server.http.listen_address'.
+2025-03-21 14:25:07.980+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.listen_address'. It is replaced by 'server.bolt.listen_address'.
+2025-03-21 14:25:07.981+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2025-03-21 14:25:07.989+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2025-03-21 14:25:07.989+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2025-03-21 14:25:08.031+0000 INFO  Starting...
+2025-03-21 14:25:10.125+0000 INFO  This instance is ServerId{9d6fa62d} (9d6fa62d-0a40-4440-ae78-010fca8b4e56)
+2025-03-21 14:25:11.772+0000 INFO  ======== Neo4j 5.10.0 ========
+2025-03-21 14:25:15.303+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-03-21 14:25:17.470+0000 INFO  Remote interface available at http://localhost:7474/
+2025-03-21 14:25:17.481+0000 INFO  id: 400A043B0818EDD64C993D1C25D2E4C274F88590142C3DA8898A4CC10B271009
+2025-03-21 14:25:17.482+0000 INFO  name: system
+2025-03-21 14:25:17.482+0000 INFO  creationDate: 2025-03-20T16:35:07.192Z
+2025-03-21 14:25:17.484+0000 INFO  Started.
+2025-03-21 14:30:50.771+0000 INFO  Neo4j Server shutdown initiated by request
+2025-03-21 14:30:50.777+0000 INFO  Stopping...
+2025-03-21 14:30:57.183+0000 INFO  Stopped.
+2025-03-21 14:37:51.983+0000 WARN  Use of deprecated setting 'dbms.connector.http.listen_address'. It is replaced by 'server.http.listen_address'.
+2025-03-21 14:37:51.995+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.listen_address'. It is replaced by 'server.bolt.listen_address'.
+2025-03-21 14:37:51.996+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2025-03-21 14:37:51.996+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2025-03-21 14:37:51.996+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2025-03-21 14:37:52.018+0000 INFO  Starting...
+2025-03-21 14:37:53.713+0000 INFO  This instance is ServerId{9d6fa62d} (9d6fa62d-0a40-4440-ae78-010fca8b4e56)
+2025-03-21 14:37:55.133+0000 INFO  ======== Neo4j 5.10.0 ========
+2025-03-21 14:37:58.429+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-03-21 14:37:59.836+0000 INFO  Remote interface available at http://localhost:7474/
+2025-03-21 14:37:59.840+0000 INFO  id: 400A043B0818EDD64C993D1C25D2E4C274F88590142C3DA8898A4CC10B271009
+2025-03-21 14:37:59.841+0000 INFO  name: system
+2025-03-21 14:37:59.842+0000 INFO  creationDate: 2025-03-20T16:35:07.192Z
+2025-03-21 14:37:59.843+0000 INFO  Started.
+2025-03-21 14:43:05.345+0000 INFO  Neo4j Server shutdown initiated by request
+2025-03-21 14:43:05.348+0000 INFO  Stopping...
+2025-03-21 14:43:11.347+0000 INFO  Stopped.
+2025-03-21 14:43:45.178+0000 WARN  Use of deprecated setting 'dbms.connector.http.listen_address'. It is replaced by 'server.http.listen_address'.
+2025-03-21 14:43:45.199+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.listen_address'. It is replaced by 'server.bolt.listen_address'.
+2025-03-21 14:43:45.205+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2025-03-21 14:43:45.208+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2025-03-21 14:43:45.210+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2025-03-21 14:43:45.260+0000 INFO  Starting...
+2025-03-21 14:43:47.410+0000 INFO  This instance is ServerId{9d6fa62d} (9d6fa62d-0a40-4440-ae78-010fca8b4e56)
+2025-03-21 14:43:49.093+0000 INFO  ======== Neo4j 5.10.0 ========
+2025-03-21 14:43:51.393+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-03-21 14:43:52.608+0000 INFO  Remote interface available at http://localhost:7474/
+2025-03-21 14:43:52.614+0000 INFO  id: 400A043B0818EDD64C993D1C25D2E4C274F88590142C3DA8898A4CC10B271009
+2025-03-21 14:43:52.615+0000 INFO  name: system
+2025-03-21 14:43:52.616+0000 INFO  creationDate: 2025-03-20T16:35:07.192Z
+2025-03-21 14:43:52.617+0000 INFO  Started.
