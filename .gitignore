@@ -1,6 +1,10 @@
-# neo4j/data/
-# neo4j/logs/
-# postgres/data/
-# volumes/csv
+# Ignorar archivos grandes de bases de datos
 neo4j/data/transactions/
 postgres/data/
+
+# Permitir que las carpetas vacías sean subidas al repositorio
+!neo4j/data/.gitkeep
+!neo4j/logs/.gitkeep
+!postgres/data/.gitkeep
+!volumes/.gitkeep
+
